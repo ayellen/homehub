@@ -15,11 +15,10 @@ feature_toggles:
   url_shortener: true
   expense_tracker: true
 family_members:
-  - Mom
-  - Dad
-  - Dipanshu
-  - Vivek
-  - India
+  - Alexander
+  - Ilana
+  - Benjamin
+  - Libby
 reminders:
   # time_format controls how reminder times are displayed in the UI.
   # Allowed values: "12h" (default) or "24h". Remove or leave blank to fall back to 12h.
